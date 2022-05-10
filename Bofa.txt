@@ -1,0 +1,4 @@
+BTC bitcoin price: 27641.284012224 volume available: 100.0, volume: 2.0, Long buy
+BTC bitcoin price: 27641.284012224 volume available: 100.0, volume: 2.0, Long sell
+BTC bitcoin price: 27641.284012224 volume available: 100.0, volume: 3.0, Short entry
+BTC bitcoin price: 27641.284012224 volume available: 100.0, volume: 3.0, Short exit
